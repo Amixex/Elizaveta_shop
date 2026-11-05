@@ -1,4 +1,28 @@
 {
-  "shop": {"notice": ""},
-  "items": []
+  "shop": {
+    "notice": ""
+  },
+  "items": [
+    {
+      "id": "imw34ezmt9sa",
+      "kind": "jewelry",
+      "title": "Ydhd",
+      "desc": "",
+      "price": 43,
+      "discount": 0,
+      "qty": 1,
+      "images": [
+        "img/imw34ezmt9sa-mw34ezmt0.jpg"
+      ],
+      "material": "",
+      "size": "",
+      "exchange": false,
+      "want": "",
+      "leadTime": "",
+      "reviews": [],
+      "status": "active",
+      "createdAt": "2026-11-05T05:44:23.217Z",
+      "updatedAt": "2026-11-05T05:44:23.217Z"
+    }
+  ]
 }
